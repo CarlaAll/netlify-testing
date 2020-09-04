@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import Loader from "react-loader-spinner";
 import Weather from "./Weather.js";
 import "./App.css";
